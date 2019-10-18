@@ -15,7 +15,7 @@ Code for the **ReacherAgent** can be viewed [here](https://github.com/Unity-Tech
 
 The image below shows a version of the environment with 10 arms:
 
-![Reacher Environment](reacher.png)
+![Reacher Environment](images/reacher.png)
 
 A video of the hands (blue) and goal spheres (green) in motion is [here](https://youtu.be/2N9EoF6pQyE).
 
