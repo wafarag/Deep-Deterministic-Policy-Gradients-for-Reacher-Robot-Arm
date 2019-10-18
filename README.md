@@ -1,5 +1,7 @@
-# DRLND-Project2 README
-DRLND Project 2 - Continuous Control (Reacher environment)
+# Deep Reinforcement Learning
+# Policy-Based Methods
+# Deep Deterministic Policy Gradients (DDPG)
+# Continuous Control (Reacher environment)
 
 ---
 
