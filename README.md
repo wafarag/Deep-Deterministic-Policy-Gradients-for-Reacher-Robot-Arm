@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning
-# Policy-Based Methods
-# Deep Deterministic Policy Gradients (DDPG)
-# Continuous Control (Reacher environment)
+## Policy-Based Methods
+### Deep Deterministic Policy Gradients (DDPG)
+### Continuous Control (Reacher Environment)
 
 ---
 
