@@ -23,7 +23,7 @@ The animation below shows a version of the environment with 10 arms follow the g
 A video -from UNITY- of the hands (blue) and goal spheres (green) in motion can be also watched from [here](https://youtu.be/2N9EoF6pQyE).
 
 ## Getting Started
-- Follow the Udacity DRL ND dependencies [instructions here](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
+- Follow the Udacity DRLND dependencies [instructions here](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
 
 - Be sure of install [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), [NumPy](http://www.numpy.org/) and [PyTorch](https://pytorch.org/).
 
