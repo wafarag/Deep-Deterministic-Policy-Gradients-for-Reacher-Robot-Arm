@@ -5,7 +5,7 @@
 
 ---
 
-The notebook and Python files in this repository present a solution using the Unity ML-Agents **Reacher** environment for the second project of the Udacity [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) (July 2018).
+The notebook and Python files in this repository present a solution using the Unity ML-Agents **Reacher** environment for the second project of the Udacity [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
 ## Project Details
 
@@ -15,9 +15,9 @@ The *action space* is a vector with four numbers, clamped between -1 and 1, corr
 
 Code for the **ReacherAgent** can be viewed [here](https://github.com/Unity-Technologies/ml-agents/blob/master/UnitySDK/Assets/ML-Agents/Examples/Reacher/Scripts/ReacherAgent.cs)
 
-The image below shows a version of the environment with 10 arms:
+The animation below shows a version of the environment with multiple arms:
 
-![Reacher Environment](images/reacher.png)
+![Reacher Environment](images/reacher.gif)
 
 A video of the hands (blue) and goal spheres (green) in motion is [here](https://youtu.be/2N9EoF6pQyE).
 
