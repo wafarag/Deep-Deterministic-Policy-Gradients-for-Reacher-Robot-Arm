@@ -40,5 +40,6 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 ## The Solution
 
 In this repo, two solutions are provided:
-1. The first solution based on a Single Agent and solved using Deep Deterministic Policy Gradients (DDPG) method. The whole solution can be found [here](/Single_Arm/) and you can start by launching [DDPG_Continuous_Control](/Single_Arm/DDPG_Continuous_Control_v0.3.ipynb) using Jupyter notebook.
+1. The first solution based on a Single Agent and solved using Deep Deterministic Policy Gradients (DDPG) method. The whole solution can be found [here](/Single_Arm/) and you can start by launching the [DDPG_Continuous_Control](/Single_Arm/DDPG_Continuous_Control_v0.3.ipynb) file using Jupyter notebook. The training performance is shown below: 
+![Single Agent Training](/Single_Arm/result_score.jpg).
 
