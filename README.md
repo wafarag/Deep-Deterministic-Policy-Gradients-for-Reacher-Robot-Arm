@@ -26,29 +26,21 @@ A reward of +0.01 is provided for each step that the agent's hand is in the goal
 The environment is considered solved when the agent has an average score of 30 or higher in a rolling 100 episodes.
 
 ## Getting Started
+Follow the Udacity DRL ND dependencies [instructions here](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
 
-#### Install the Anaconda distribution of Python 3
+Be sure of install [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), [NumPy](http://www.numpy.org/) and [PyTorch](https://pytorch.org/) 
 
-[Anaconda Python](https://www.anaconda.com/download/#macos) installation.
+Download a prebuilt simulator
 
-#### Obtain Unity ML-Agents
+### Singe agent:
+Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
+Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
+Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
 
-Install [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md) and [NumPy](http://www.numpy.org/).
-
-## Instructions
-
-#### Start Jupyter and open the DRLND Project 2 notebook
-
-```
-> jupyter notebook
-```
-
-The notebook, **DRLND Project 2 - Continuous Control (Reacher environment).ipynb**, can then be opened.
-
-The **Reacher environment** used for this project was supplied in the Udacity DRLND on-line Workspace.
-
-Select **Cell > Run All**.
-
+### Twenty Agents:
+Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 ## Additional Resources
 
 Need more links? Visit [http://bit.ly/drlndlinks](http://bit.ly/drlndlinks) to learn much more about DRLND and Reinforcement Learning.
