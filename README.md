@@ -20,12 +20,12 @@ The animation below shows a version of the environment with 10 arms follow the g
 
 ![Reacher Environment](images/reacher.gif)
 
-A video -from UNITY- of the hands (blue) and goal spheres (green) in motion can be watched [here](https://youtu.be/2N9EoF6pQyE).
+A video -from UNITY- of the hands (blue) and goal spheres (green) in motion can be also watched from [here](https://youtu.be/2N9EoF6pQyE).
 
 ## Getting Started
 - Follow the Udacity DRL ND dependencies [instructions here](https://github.com/udacity/deep-reinforcement-learning#dependencies) 
 
-- Be sure of install [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), [NumPy](http://www.numpy.org/) and [PyTorch](https://pytorch.org/) 
+- Be sure of install [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), [NumPy](http://www.numpy.org/) and [PyTorch](https://pytorch.org/).
 
 - Download a prebuilt simulator as follows:
 #### Singe agent:
@@ -38,4 +38,7 @@ Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reache
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip).
 
 ## The Solution
+
+In this repo, two solutions are provided:
+1. The first solution based on a Single Agent and solved using Deep Deterministic Policy Gradients (DDPG) method. The whole solution can be found [here] (/Single_Arm) and you can start br launching [DDPG_Continuous_Control v0.3.ipynb] (/Single_Arm/DDPG_Continuous_Control v0.3.ipynb) using Jupyter notebook.
 
