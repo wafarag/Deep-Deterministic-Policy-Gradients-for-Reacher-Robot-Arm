@@ -15,15 +15,15 @@ The *action space* is a vector with four numbers, clamped between -1 and 1, corr
 
 Code for the **ReacherAgent** can be viewed [here](https://github.com/Unity-Technologies/ml-agents/blob/master/UnitySDK/Assets/ML-Agents/Examples/Reacher/Scripts/ReacherAgent.cs)
 
-The animation below shows a version of the environment with multiple arms:
+The animation below shows a version of the environment with 10 arms follow the goal spheres movements:
 
 ![Reacher Environment](images/reacher.gif)
 
-A video of the hands (blue) and goal spheres (green) in motion is [here](https://youtu.be/2N9EoF6pQyE).
+A video -from UNITY- of the hands (blue) and goal spheres (green) in motion can be watched [here](https://youtu.be/2N9EoF6pQyE).
 
 A reward of +0.01 is provided for each step that the agent's hand is in the goal location.
 
-The environment is considered solved when the agent has an average score of 30 or higher in 100 episodes.
+The environment is considered solved when the agent has an average score of 30 or higher in a rolling 100 episodes.
 
 ## Getting Started
 
