@@ -46,4 +46,4 @@ In this repo, two solutions are provided:
 2. The second solution is based on 20 Agents trained simultaneously and solved using Deep Deterministic Policy Gradients (DDPG) method. The whole solution can be found [here](/Multiple_Arms/) and you can start by launching the [DDPG_Continuous_Control_20Agents](/Multiple_Arms/DDPG_Continuous_Control_20Agent_v0.4) file using Jupyter notebook. The training performance is shown below: 
 ![Multiple Agents Training](/Multiple_Arms/result_score.jpg).
 
-More details can be found in this [report](report.pdf).
+More details can be found in this [report](Report.pdf).
